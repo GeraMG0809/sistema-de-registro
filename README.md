@@ -5,3 +5,4 @@
   Para ejecutar el proyecto debes poner:
 
   ```npm install React```
+  Sistema deregistro 2
